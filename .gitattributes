@@ -1,2 +1,5 @@
 C:/Users/Lenovo/Documents/GitHub/surrogate_model_dune_erosion filter=lfs diff=lfs merge=lfs -text
 XB_maxisland_fixed.mat filter=lfs diff=lfs merge=lfs -text
+XB_maxisland_tracking.mat filter=lfs diff=lfs merge=lfs -text
+XB_primary_fixed.mat filter=lfs diff=lfs merge=lfs -text
+XB_primary_tracking.mat filter=lfs diff=lfs merge=lfs -text
